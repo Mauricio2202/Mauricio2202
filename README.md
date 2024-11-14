@@ -57,7 +57,7 @@ Mi enfoque está centrado en la **usabilidad**, **accesibilidad** y la **optimiz
 
 Estoy siempre dispuesto a colaborar en nuevos proyectos y trabajar juntos para crear soluciones innovadoras. Si tienes alguna idea o necesitas ayuda, ¡no dudes en ponerte en contacto conmigo!
 
-[![LinkedIn](https://www.linkedin.com/in/mauricio-garro-03311b210/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-garro-03311b210/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MauricioGarro22)
 
 ---
@@ -68,7 +68,7 @@ Estoy siempre dispuesto a colaborar en nuevos proyectos y trabajar juntos para c
 - Me considero un apasionado de la **tecnología** y disfruto explorando **nuevas herramientas** y **frameworks**.
 - Siempre estoy en busca de **proyectos open-source** para contribuir.
 - **Café** y programación son mi combinación perfecta ☕.
-- Me gusta **programar** cosas por diversión.
+- A veces **programo cosas** por mera diversión.
 - Tengo mucha curiosidad, por lo que si me ves a las 12:00 p. m. Quizá esté descubriendo cómo hacer una computadora cuántica. **ríete es un chiste malo**
 - Fuera de la programación, soy un aficionado al **trading** 📈 y disfruto de los **videojuegos** 🎮.
 
