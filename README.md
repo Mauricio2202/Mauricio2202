@@ -9,7 +9,7 @@
 
 ## 🔹 Perfil Profesional
 
-Soy un **Desarrollador Web** con más de **4 años de experiencia** en el desarrollo de aplicaciones web. He trabajado como **Freelancer** en diversos proyectos, logrando optimizaciones en el **rendimiento web**, diseño **UX** y desarrollo de **plataformas unificadas** que permiten a los usuarios tener experiencias más eficientes y agradables. Mi enfoque siempre ha sido ofrecer soluciones de alta calidad que combinan **usabilidad**, **rendimiento** y **escalabilidad**.
+Soy un **Desarrollador Web** con **4 años de experiencia** en el desarrollo de aplicaciones web. He trabajado como **Freelancer** en diversos proyectos, logrando optimizaciones en el **rendimiento web**, diseño **UX** y desarrollo de **plataformas unificadas** que permiten a los usuarios tener experiencias más eficientes y agradables. Mi enfoque siempre ha sido ofrecer soluciones de alta calidad que combinan **usabilidad**, **rendimiento** y **escalabilidad**. Mi base sólida va a ser siempre hacer proyectos con normas de calidad.
 
 ---
 
@@ -17,8 +17,8 @@ Soy un **Desarrollador Web** con más de **4 años de experiencia** en el desarr
 
 ### **Frontend**
 - Desarrollo de una **aplicación de tareas** con funcionalidades de creación, almacenamiento y eliminación, optimizada para mejorar la experiencia del usuario.
-- Amplia experiencia en frameworks de **frontend** como **Angular** y **React**.
-- Participación activa en el desarrollo de **CodePulse Community** desde junio de 2024 utilizando **Angular**.
+- Experiencia en frameworks de **frontend** como **Angular** y **React**.
+- Participación activa y CEO en el desarrollo de **CodePulse Community** desde junio de 2024 utilizando **Angular**.
 - Implementación de diseños responsivos y optimizados usando **Tailwind CSS**.
 
 ### **Backend**
@@ -27,6 +27,7 @@ Soy un **Desarrollador Web** con más de **4 años de experiencia** en el desarr
 - Desarrollo de **sitios web** usando tecnologías como **HTML5**, **CSS**, **JavaScript** y stacks avanzados como **React + Vite** y **Angular + Tailwind**.
 - Experiencia en **Node.js** y frameworks como **NestJS**.
 - Conocimientos sólidos en **Python orientado a objetos (OOP)**.
+- Especialización en Java y Python
 
 ---
 
